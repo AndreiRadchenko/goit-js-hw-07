@@ -1,0 +1,5 @@
+.custom-caption {
+  background: rgba(0, 0, 0, 0.2) !important;
+  text-align: center;
+  backdrop-filter: blur(2px);
+}
